@@ -1,6 +1,15 @@
 Evolution X 10.7 UNOFFICIAL Build
-Build date: 06/06/2025
 
+Build date: 06/07/2025
+Device changes:
+==============================
+Silence HWUI logspam
+Shut hwcomposer spam
+Added bypass charging
+Use HintManager for HWUI
+Drop debug.sf.disable_client_composition_cache
+
+Build date: 06/06/2025
 Device changes:
 ==============================
 Merge June 2025 Security patch
