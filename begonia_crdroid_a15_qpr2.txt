@@ -1,0 +1,12 @@
+crDroid v11.x UNOFFICIAL Build
+
+Build date: 30/07/2025
+Device changes:
+==============================
+Sync with latest crDroidAndroid v11.x source
+Merge Android Security Patch to July 2025
+Silence HWUI logspam
+Shut hwcomposer spam
+Use HintManager for HWUI
+Drop debug.sf.disable_client_composition_cache
+Fixed WPA3 crash in hotspot
