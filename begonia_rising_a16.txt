@@ -1,0 +1,8 @@
+RisingOS-Revived 8.0-Zorya UNOFFICIAL Build
+
+Build date: 05/08/2025
+Device changes:
+==============================
+Initial A16 release build
+Merge Android Security Patch to July 2025
+Fixed WPA3 crash in hotspot
