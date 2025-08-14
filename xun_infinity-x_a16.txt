@@ -1,0 +1,7 @@
+Infinity X 3.1 UNOFFICIAL Build
+
+Build date: 14/08/2025
+Device changes:
+==============================
+Synced with latest 3.1 source
+Merge Android Security Patch to August 2025
