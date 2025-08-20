@@ -1,0 +1,31 @@
+Evolution X 11.1 UNOFFICIAL Build
+
+Build date: 20/08/2025
+Device changes:
+==============================
+Synced with latest v11.1 source
+Merge Android Security Patch to August 2025
+Fixed 30FPS Video Recording in MiuiCamera (A16 issue)
+Fixed DAC Audio Issues
+Fixed WPA3 Hotspot loading issues
+Fixed Bluetooth Audio issues
+Dropped some useless Bluetooth blobs
+Optimized battery consumption
+More miscellaneous changes
+
+Notable ROM changes:
+==============================
+Evolver: Add back batterybar
+Evolver: Add customization to select QS tile shape
+Evolver: Allow single tap on keyguard affordances
+Evolver: AOD wallpaper toggle
+Evolver: MonetSettings: Add back the Content theming style
+Evolver: MonetSettings: Bump max chroma factor to 150
+Smartspace: Return if text is null
+SystemUI: Add advanced filtering and customization
+SystemUI: Add haptics when using single tap for keyguard affordances
+SystemUI: Apply tile shapes to all tiles
+SystemUI: Do not disable slice provider for smartspace
+SystemUI: Do not switch between spacer and text for data usage in footer
+SystemUI: clear keyguard indication background and icon on empty text
+screenrecord: Set entire screenrecord as the default option
