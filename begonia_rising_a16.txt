@@ -1,3 +1,21 @@
+RisingOS-Revived 8.1-Arete UNOFFICIAL Build
+
+Build date: 27/08/2025
+Device changes:
+==============================
+Synced with latest 8.1-Arete source
+Merge Android Security Patch to August 2025
+Added Bypass Charging support
+Fixed FMRadio issues (A16 issue)
+Fixed 30FPS Video Recording in MiuiCamera (A16 issue)
+Fixed DAC Audio Issues
+Fixed Telegram Camera issues (A16 issue)
+Fixed Bluetooth Audio issues
+Dropped some useless Bluetooth blobs
+Optimized battery consumption
+More miscellaneous changes
+
+
 RisingOS-Revived 8.0-Zorya UNOFFICIAL Build
 
 Build date: 05/08/2025
