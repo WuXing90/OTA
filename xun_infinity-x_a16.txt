@@ -1,3 +1,15 @@
+Infinity X 3.2 UNOFFICIAL Build
+
+Build date: 03/09/2025
+Device changes:
+==============================
+Synced with latest 3.2 source
+Merge Android Security Patch to September 2025
+Merge the OS2.0.203.0.VMUCNXM firmware
+Update blobs from OS2.0.204.0.VMUMIXM
+Added Bypass Charging support
+Switch to Xiaomi Dolby Atmos
+
 Infinity X 3.1 UNOFFICIAL Build
 
 Build date: 14/08/2025
