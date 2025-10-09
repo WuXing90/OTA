@@ -1,0 +1,19 @@
+crDroid v12.1 UNOFFICIAL Build
+
+Build date: 09/10/2025
+Device changes:
+==============================
+Synced with latest v12.1 source
+Merge Android Security Patch to September 2025
+Fixed 30FPS Video Recording in MiuiCamera (A16 issue)
+Fixed DAC Audio Issues
+Fixed WPA3 Hotspot loading issues
+Fixed Bluetooth Audio issues
+Fixed Telegram Camera issues
+Fixed FMRadio issues (A16 issue)
+Added UFFD support
+Added NCM USB threating
+Dropped some useless Bluetooth blobs
+Optimized battery consumption
+Included latest Power kernel
+More miscellaneous changes
