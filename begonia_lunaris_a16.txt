@@ -1,0 +1,10 @@
+Lunaris-AOSP 3.5 UNOFFICIAL Build
+
+Build date: 13/11/2025
+Device changes:
+==============================
+Initial build
+Merge Android Security Patch to November 2025
+Fixed USB tethering
+Disabled few more loggers
+Added SELinux rules for performance mode
