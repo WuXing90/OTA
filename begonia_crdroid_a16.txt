@@ -1,3 +1,13 @@
+crDroid v12.3 UNOFFICIAL Build
+
+Build date: 15/11/2025
+Device changes:
+==============================
+Synced with latest v12.3 source
+Merge Android Security Patch to November 2025
+Fixed USB tethering
+Disabled few more loggers
+
 crDroid v12.1 UNOFFICIAL Build
 
 Build date: 09/10/2025
