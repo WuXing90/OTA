@@ -1,3 +1,16 @@
+RisingOS-Revived 8.1.1-Arete UNOFFICIAL Build
+
+Build date: 22/11/2025
+Device changes:
+==============================
+Synced with latest 8.1.1-Arete source
+Merge Android Security Patch to November 2025
+Enabled UFFD GC Support (Memory management related)
+Fixed USB tethering
+Disabled few more loggers
+More miscellaneous changes
+
+
 RisingOS-Revived 8.1-Arete UNOFFICIAL Build
 
 Build date: 27/08/2025
