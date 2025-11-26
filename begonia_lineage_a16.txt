@@ -1,0 +1,7 @@
+LineageOS 23.0 UNOFFICIAL Build
+
+Build date: 26/11/2025
+Device changes:
+==============================
+Initial build
+Signature build
