@@ -1,3 +1,12 @@
+Lunaris-AOSP 3.6 UNOFFICIAL Build
+
+Build date: 12/12/2025
+Device changes:
+==============================
+Synchronize latest source
+Merge Android Security Patch to December 2025
+Enable blur
+
 Lunaris-AOSP 3.5 UNOFFICIAL Build
 
 Build date: 13/11/2025
