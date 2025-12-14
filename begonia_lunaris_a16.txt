@@ -1,3 +1,10 @@
+Lunaris-AOSP 3.6 - HOTFIX UNOFFICIAL Build
+
+Build date: 15/12/2025
+Device changes:
+==============================
+Disable blur
+
 Lunaris-AOSP 3.6 UNOFFICIAL Build
 
 Build date: 12/12/2025
