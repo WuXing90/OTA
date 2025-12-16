@@ -1,3 +1,11 @@
+crDroid v12.4 UNOFFICIAL Build
+
+Build date: 15/12/2025
+Device changes:
+==============================
+Synced with latest v12.4 source
+Merge Android Security Patch to December 2025
+
 crDroid v12.3 UNOFFICIAL Build
 
 Build date: 15/11/2025
