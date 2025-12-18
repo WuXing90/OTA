@@ -1,0 +1,8 @@
+PixelOS 16.1 UNOFFICIAL Build
+
+Build date: 18/12/2025
+Device changes:
+==============================
+Initial build
+Synced with latest source
+Based on November security patch
