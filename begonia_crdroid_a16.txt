@@ -1,3 +1,11 @@
+crDroid v12.5 QPR1 UNOFFICIAL Build
+
+Build date: 04/01/2026
+Device changes:
+==============================
+Synced with latest v12.5 source
+Update Dolby Atmos
+
 crDroid v12.4 UNOFFICIAL Build
 
 Build date: 15/12/2025
