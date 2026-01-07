@@ -1,3 +1,11 @@
+LineageOS 23.1 QPR1 UNOFFICIAL Build
+
+Build date: 07/01/2026
+Device changes:
+==============================
+Sync latest source
+Update Dolby Atmos
+
 LineageOS 23.0 UNOFFICIAL Build
 
 Build date: 26/11/2025
