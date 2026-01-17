@@ -1,5 +1,22 @@
 PixelOS 16.1 UNOFFICIAL Build
 
+Build date: 16/01/2026
+Device changes:
+==============================
+Synced with latest source
+Merge Android Security Patch to January 2026
+Update Dolby Atmos
+Fixed some application crashes issues
+Fixed OK Google/Hey Google
+Enable LZ4 for ramdisk
+Switch to IR AIDL HAL
+Disable gl backpressure
+Reworked DT2W Services 
+Dropped multiple useless blobs
+
+
+PixelOS 16.1 UNOFFICIAL Build
+
 Build date: 18/12/2025
 Device changes:
 ==============================
