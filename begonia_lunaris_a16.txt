@@ -1,3 +1,17 @@
+Lunaris-AOSP 3.6 UNOFFICIAL Build
+
+Build date: 04/02/2026
+Device changes:
+==============================
+Synced with latest v3.6 source
+Merge Android Security Patch to January 2026
+Update Dolby Atmos
+Switch to IR AIDL HAL
+Disable gl backpressure
+Reworked DT2W Services 
+Dropped multiple useless blobs
+Other optimizations and changes
+
 Lunaris-AOSP 3.6 - HOTFIX UNOFFICIAL Build
 
 Build date: 15/12/2025
