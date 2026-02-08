@@ -1,3 +1,17 @@
+crDroid v12.7 QPR2 UNOFFICIAL Build
+
+Build date: 08/02/2026
+Device changes:
+==============================
+Synced with latest v12.7 source
+Merge Android Security Patch to February 2026
+Update Dolby Atmos from Lunaris Dolby
+Switch to IR AIDL HAL
+Disable gl backpressure
+Reworked DT2W Services 
+Dropped multiple useless blobs
+Other optimizations and changes
+
 crDroid v12.5 QPR1 UNOFFICIAL Build
 
 Build date: 04/01/2026
