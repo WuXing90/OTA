@@ -1,3 +1,17 @@
+PixelOS 16.2 UNOFFICIAL Build
+
+Build date: 02/03/2026
+Device changes:
+==============================
+Switch to user build
+Synced with latest source
+Merge Android Security Patch to February 2026
+Fixed vibrator effects
+Apply dex2oat optimizations
+Switch to old DT2W Service
+Enable blur
+
+
 PixelOS 16.1 UNOFFICIAL Build
 
 Build date: 16/01/2026
