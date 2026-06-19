@@ -1,3 +1,17 @@
+crDroid v12.11 QPR2 UNOFFICIAL Build
+
+Build date: 19/06/2026
+Device changes:
+==============================
+Synced with latest v12.11 source
+Merge Android Security Patch to June 2026
+Update to LunarisDolby
+Update ImsServices For QPR2
+Update VT blobs For QPR2
+Included latest Power kernel
+Dropped multiple useless blobs
+
+
 crDroid v12.7 QPR2 UNOFFICIAL Build
 
 Build date: 08/02/2026
